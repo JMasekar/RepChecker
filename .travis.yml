@@ -8,4 +8,4 @@ install:
 
 # command to run tests
 script:
- - python -m unittest HW04_Test_JM
+ - python -m unittest HW04a_Test_JM
