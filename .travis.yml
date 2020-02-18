@@ -1,0 +1,11 @@
+language: python
+python:
+ - "3.6"
+
+# command to install deps
+install:
+  - pip install requests
+
+# command to run tests
+script:
+ - python -m unittest HW04_Test_JM
